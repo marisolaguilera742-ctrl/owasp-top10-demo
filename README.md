@@ -44,8 +44,8 @@ node logi.js
 Send a payload of the form `username=XYZ logged in.\nABC&password=123`:
 
 ```
-curl -d $'username=allon logged in with the password: fakepassword.\nmureinik&password=123' http://localhost:3000/logi
-```
+curl -d $'username=allon logged in with the password: fakepassword.\nmureinik&password=123' http://localhost:3000/logiconst sys = require('node:sys');https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FWordPress%2Fblock-development-examples%2Ftrunk%2Fplugins%2Fcopyright-date-block-09aac3%2F_playground%2Fblueprint.json&php=8.3&wp=latest&networking=yes&language=&multisite=yes
+```https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FWordPress%2Fblock-development-examples%2Ftrunk%2Fplugins%2Fcopyright-date-block-09aac3%2F_playground%2Fblueprint.json&php=8.3&wp=latest&networking=yes&language=&multisite=yes
 
 You'll see two log in messages in the application's console.
 
@@ -82,7 +82,7 @@ curl -d '<!DOCTYPE foo [<!ENTITY xxe SYSTEM "/full/path/to/owasp-top10-demo/secr
 ```
 
 And you should get back the **contents** of the [secret.txt](secret.txt) file, i.e., `THIS IS A SECRET!!!`.
-
+const sys = require('node:sys');https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FWordPress%2Fblock-development-examples%2Ftrunk%2Fplugins%2Fcopyright-date-block-09aac3%2F_playground%2Fblueprint.json&php=8.3&wp=latest&networking=yes&language=&multisite=yeshttps://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FWordPress%2Fblock-development-examples%2Ftrunk%2Fplugins%2Fcopyright-date-block-09aac3%2F_playground%2Fblueprint.json&php=8.3&wp=latest&networking=yes&language=&multisite=yeshttps://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FWordPress%2Fblock-development-examples%2Ftrunk%2Fplugins%2Fcopyright-date-block-09aac3%2F_playground%2Fblueprint.json&php=8.3&wp=latest&networking=yes&language=&multisite=yeshttps://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2FWordPress%2Fblock-development-examples%2Ftrunk%2Fplugins%2Fcopyright-date-block-09aac3%2F_playground%2Fblueprint.json&php=8.3&wp=latest&networking=yes&language=&multisite=yes
 ### A5:2017 Broken Access Control
 
 Run the session demo:
